@@ -8,12 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="This is a individual website which is works for linking individual resources between my computer and websites">
 <meta property="og:type" content="website">
-<meta property="og:title" content="search">
-<meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;search&#x2F;index.html">
+<meta property="og:title" content="Xherry Yang">
+<meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;categories&#x2F;webTools&#x2F;text&#x2F;index.html">
 <meta property="og:site_name" content="Xherry Yang">
 <meta property="og:description" content="This is a individual website which is works for linking individual resources between my computer and websites">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2019-12-03T06:19:27.857Z">
 <meta name="twitter:card" content="summary">
     
     
@@ -34,7 +33,7 @@
         
     
     <!-- title -->
-    <title>search</title>
+    <title>Category: text</title>
     <!-- styles -->
     <link rel="stylesheet" href="/css/style.css">
     <!-- persian styles -->
@@ -81,22 +80,42 @@
 </header>
 
         
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+        <div id="archive">
+  <ul class="post-list">
+    
+    
+    
+    
+      
+      
+      
+      
+        <h2>2019</h2>
+      
+      <li class="post-item">
+        
+    <div class="meta">
+      
+        
+          <time datetime="2019-12-03T07:41:11.000Z" itemprop="datePublished">2019-12-03</time>
+        
+      
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/2019/12/03/web-tools-text-index/">Editor-Tools</a>
+    
+
+
+</span>
+      </li>
+    
+  </ul>
   
 
-  <div class="content" itemprop="articleBody">
-      
-        <section id="search">
-  <form>
-    <input type="text" class="search-input" id="search-input" placeholder="Search...">
-  </form>
-  <div id="search-result"></div>
-  <p class="search-no-result">No results found.</p>
-</section>
-
-      
-  </div>
-</article>
+</div>
 
         
         <footer id="footer">
@@ -132,41 +151,6 @@
 
 <script src="/js/main.js"></script>
 <!-- search -->
-
-  <script src="/js/search.js"></script>
-  <script type="text/javascript">
-  $(function() {
-
-    var $inputArea = $("input#search-input");
-    var $resultArea = document.querySelector("div#search-result");
-
-    $inputArea.focus(function() {
-      var search_path = "search.xml";
-      if (search_path.length == 0) {
-        search_path = "search.xml";
-      }
-      var path = "/" + search_path;
-      searchFunc(path, 'search-input', 'search-result');
-    });
-
-    $inputArea.keydown(function(e) {
-      if (e.which == 13) {
-        e.preventDefault();
-      }
-    });
-
-    var observer = new MutationObserver(function(mutationsList, observer) {
-      if (mutationsList[0].addedNodes) {
-        $(".search-no-result").show(200);
-      } else {
-        $(".search-no-result").hide();
-      }
-    });
-
-    observer.observe($resultArea, { childList: true });
-
-  });
-  </script>
 
 <!-- Google Analytics -->
 
