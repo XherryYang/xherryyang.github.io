@@ -4,6 +4,53 @@
   
     
     <entry>
+      <title>Articles Page</title>
+      <link href="/2019/12/04/web-resources-articles-article/"/>
+      <url>/2019/12/04/web-resources-articles-article/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf" target="_blank" rel="noopener">http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf</a></li><li><a href="https://cr.yp.to/2005-590/goldberg.pdf" target="_blank" rel="noopener">https://cr.yp.to/2005-590/goldberg.pdf</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> webResources </category>
+          
+          <category> niceArticles </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>testing-code</title>
+      <link href="/2019/12/03/testing-code/"/>
+      <url>/2019/12/03/testing-code/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>testing-video</title>
+      <link href="/2019/12/03/testing-video/"/>
+      <url>/2019/12/03/testing-video/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/kJGupYFaCGs" frameborder="0" allowfullscreen></iframe></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Recent-Using</title>
       <link href="/2019/12/03/ARecent-RecentUsing/"/>
       <url>/2019/12/03/ARecent-RecentUsing/</url>
@@ -336,7 +383,7 @@
       <link href="/2019/12/03/web-resources-social-index/"/>
       <url>/2019/12/03/web-resources-social-index/</url>
       
-        <content type="html"><![CDATA[<ul><li><p><a href="https://www.defcon.org/" target="_blank" rel="noopener">https://www.defcon.org/</a></p></li><li><p><a href="https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/" target="_blank" rel="noopener">https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/</a></p></li><li><p><a href="https://stackoverflow.com/" target="_blank" rel="noopener">https://stackoverflow.com/</a></p></li><li><p><a href="https://news.ycombinator.com" target="_blank" rel="noopener">https://news.ycombinator.com</a></p></li><li><p><a href="https://vimeo.com/43899177" target="_blank" rel="noopener">https://vimeo.com/43899177</a></p></li><li><p><a href="https://youtube.com" target="_blank" rel="noopener">https://youtube.com</a></p></li><li><p><a href="https://www.pinterest.com/" target="_blank" rel="noopener">https://www.pinterest.com/</a></p></li><li><p><a href="https://www.linkedin.com/" target="_blank" rel="noopener">https://www.linkedin.com/</a></p></li><li><p><a href="https://www.tumblr.com/" target="_blank" rel="noopener">https://www.tumblr.com/</a></p></li><li><p><a href="https://www.reddit.com/" target="_blank" rel="noopener">https://www.reddit.com/</a></p></li><li><p><a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></p></li><li><p><a href="http://detail.zol.com.cn" target="_blank" rel="noopener">http://detail.zol.com.cn</a></p></li><li><p><a href="http://www.zol.com.cn" target="_blank" rel="noopener">http://www.zol.com.cn</a></p></li></ul>]]></content>
+        <content type="html"><![CDATA[<ul><li><a href="https://www.defcon.org/" target="_blank" rel="noopener">https://www.defcon.org/</a></li><li><a href="https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/" target="_blank" rel="noopener">https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/</a></li><li><a href="https://stackoverflow.com/" target="_blank" rel="noopener">https://stackoverflow.com/</a></li><li><a href="https://news.ycombinator.com" target="_blank" rel="noopener">https://news.ycombinator.com</a></li><li><a href="https://vimeo.com/43899177" target="_blank" rel="noopener">https://vimeo.com/43899177</a></li><li><a href="https://youtube.com" target="_blank" rel="noopener">https://youtube.com</a></li><li><a href="https://www.pinterest.com/" target="_blank" rel="noopener">https://www.pinterest.com/</a></li><li><a href="https://www.linkedin.com/" target="_blank" rel="noopener">https://www.linkedin.com/</a></li><li><a href="https://www.tumblr.com/" target="_blank" rel="noopener">https://www.tumblr.com/</a></li><li><a href="https://www.reddit.com/" target="_blank" rel="noopener">https://www.reddit.com/</a></li><li><p><a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></p></li><li><p><a href="http://detail.zol.com.cn" target="_blank" rel="noopener">http://detail.zol.com.cn</a></p></li><li><a href="http://www.zol.com.cn" target="_blank" rel="noopener">http://www.zol.com.cn</a></li></ul>]]></content>
       
       
       <categories>

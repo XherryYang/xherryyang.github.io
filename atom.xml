@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-03T11:39:33.317Z</updated>
+  <updated>2019-12-04T01:12:36.749Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,71 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Articles Page</title>
+    <link href="http://yoursite.com/2019/12/04/web-resources-articles-article/"/>
+    <id>http://yoursite.com/2019/12/04/web-resources-articles-article/</id>
+    <published>2019-12-04T01:08:50.000Z</published>
+    <updated>2019-12-04T01:12:36.749Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><a href="http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf" target="_blank" rel="noopener">http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf</a></li><li><a href="https://cr.yp.to/2005-590/goldberg.pdf" target="_blank" rel="noopener">https://cr.yp.to/2005-590/goldberg.pdf</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://perso.ens-lyon.fr/jean-mic
+      
+    
+    </summary>
+    
+    
+      <category term="webResources" scheme="http://yoursite.com/categories/webResources/"/>
+    
+      <category term="niceArticles" scheme="http://yoursite.com/categories/webResources/niceArticles/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>testing-code</title>
+    <link href="http://yoursite.com/2019/12/03/testing-code/"/>
+    <id>http://yoursite.com/2019/12/03/testing-code/</id>
+    <published>2019-12-03T13:10:59.000Z</published>
+    <updated>2019-12-04T01:03:54.843Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>testing-video</title>
+    <link href="http://yoursite.com/2019/12/03/testing-video/"/>
+    <id>http://yoursite.com/2019/12/03/testing-video/</id>
+    <published>2019-12-03T12:41:42.000Z</published>
+    <updated>2019-12-04T01:03:48.643Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/kJGupYFaCGs" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/kJGupYFaCGs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Recent-Using</title>
@@ -468,16 +533,15 @@
     <published>2019-12-03T08:01:20.000Z</published>
     <updated>2019-12-03T08:31:07.904Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p><a href="https://www.defcon.org/" target="_blank" rel="noopener">https://www.defcon.org/</a></p></li><li><p><a href="https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/" target="_blank" rel="noopener">https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/</a></p></li><li><p><a href="https://stackoverflow.com/" target="_blank" rel="noopener">https://stackoverflow.com/</a></p></li><li><p><a href="https://news.ycombinator.com" target="_blank" rel="noopener">https://news.ycombinator.com</a></p></li><li><p><a href="https://vimeo.com/43899177" target="_blank" rel="noopener">https://vimeo.com/43899177</a></p></li><li><p><a href="https://youtube.com" target="_blank" rel="noopener">https://youtube.com</a></p></li><li><p><a href="https://www.pinterest.com/" target="_blank" rel="noopener">https://www.pinterest.com/</a></p></li><li><p><a href="https://www.linkedin.com/" target="_blank" rel="noopener">https://www.linkedin.com/</a></p></li><li><p><a href="https://www.tumblr.com/" target="_blank" rel="noopener">https://www.tumblr.com/</a></p></li><li><p><a href="https://www.reddit.com/" target="_blank" rel="noopener">https://www.reddit.com/</a></p></li><li><p><a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></p></li><li><p><a href="http://detail.zol.com.cn" target="_blank" rel="noopener">http://detail.zol.com.cn</a></p></li><li><p><a href="http://www.zol.com.cn" target="_blank" rel="noopener">http://www.zol.com.cn</a></p></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://www.defcon.org/" target="_blank" rel="noopener">https://www.defcon.org/</a></li><li><a href="https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/" target="_blank" rel="noopener">https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/</a></li><li><a href="https://stackoverflow.com/" target="_blank" rel="noopener">https://stackoverflow.com/</a></li><li><a href="https://news.ycombinator.com" target="_blank" rel="noopener">https://news.ycombinator.com</a></li><li><a href="https://vimeo.com/43899177" target="_blank" rel="noopener">https://vimeo.com/43899177</a></li><li><a href="https://youtube.com" target="_blank" rel="noopener">https://youtube.com</a></li><li><a href="https://www.pinterest.com/" target="_blank" rel="noopener">https://www.pinterest.com/</a></li><li><a href="https://www.linkedin.com/" target="_blank" rel="noopener">https://www.linkedin.com/</a></li><li><a href="https://www.tumblr.com/" target="_blank" rel="noopener">https://www.tumblr.com/</a></li><li><a href="https://www.reddit.com/" target="_blank" rel="noopener">https://www.reddit.com/</a></li><li><p><a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></p></li><li><p><a href="http://detail.zol.com.cn" target="_blank" rel="noopener">http://detail.zol.com.cn</a></p></li><li><a href="http://www.zol.com.cn" target="_blank" rel="noopener">http://www.zol.com.cn</a></li></ul>]]></content>
     
     <summary type="html">
     
       
       
         &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.defcon.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.defcon.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://w
+&lt;li&gt;&lt;a href=&quot;https://www.defcon.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.defcon.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.washingt
       
     
     </summary>
@@ -486,90 +550,6 @@
       <category term="webResources" scheme="http://yoursite.com/categories/webResources/"/>
     
       <category term="social" scheme="http://yoursite.com/categories/webResources/social/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Books-Pages</title>
-    <link href="http://yoursite.com/2019/12/03/web-resources-books-online-index/"/>
-    <id>http://yoursite.com/2019/12/03/web-resources-books-online-index/</id>
-    <published>2019-12-03T07:47:53.000Z</published>
-    <updated>2019-12-03T08:29:42.167Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><a href="https://zqbook.top/" target="_blank" rel="noopener">https://zqbook.top/</a></li><li><a href="https://www.shuge.org/" target="_blank" rel="noopener">https://www.shuge.org/</a></li><li><a href="http://gen.lib.rus.ec/" target="_blank" rel="noopener">http://gen.lib.rus.ec/</a></li><li><a href="http://libgen.io/" target="_blank" rel="noopener">http://libgen.io/</a></li><li><a href="http://freecomputerbooks.com/" target="_blank" rel="noopener">http://freecomputerbooks.com/</a></li><li><a href="https://www.kgbook.com/" target="_blank" rel="noopener">https://www.kgbook.com/</a></li><li><a href="https://ebook.chongbuluo.com/" target="_blank" rel="noopener">https://ebook.chongbuluo.com/</a></li><li><a href="http://www.tushu007.com/" target="_blank" rel="noopener">http://www.tushu007.com/</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://zqbook.top/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://zqbook.top/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.shuge.org/&quot; targ
-      
-    
-    </summary>
-    
-    
-      <category term="webResources" scheme="http://yoursite.com/categories/webResources/"/>
-    
-      <category term="books" scheme="http://yoursite.com/categories/webResources/books/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Editor-Tools</title>
-    <link href="http://yoursite.com/2019/12/03/web-tools-text-index/"/>
-    <id>http://yoursite.com/2019/12/03/web-tools-text-index/</id>
-    <published>2019-12-03T07:41:11.000Z</published>
-    <updated>2019-12-03T08:29:06.178Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><a href="https://www.editpad.org" target="_blank" rel="noopener">https://www.editpad.org</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.editpad.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.editpad.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="webTools" scheme="http://yoursite.com/categories/webTools/"/>
-    
-      <category term="text" scheme="http://yoursite.com/categories/webTools/text/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Pictures-Tools</title>
-    <link href="http://yoursite.com/2019/12/03/web-tools-pictures-index/"/>
-    <id>http://yoursite.com/2019/12/03/web-tools-pictures-index/</id>
-    <published>2019-12-03T07:39:30.000Z</published>
-    <updated>2019-12-03T11:43:29.411Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li>Favicon Generator: <a href="https://realfavicongenerator.net" target="_blank" rel="noopener">https://realfavicongenerator.net</a></li><li><a href="https://fontawesome.com/start" target="_blank" rel="noopener">https://fontawesome.com/start</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;ul&gt;
-&lt;li&gt;Favicon Generator: &lt;a href=&quot;https://realfavicongenerator.net&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://realfavicongenerator.net&lt;/a&gt;&lt;/
-      
-    
-    </summary>
-    
-    
-      <category term="webTools" scheme="http://yoursite.com/categories/webTools/"/>
-    
-      <category term="picturePro" scheme="http://yoursite.com/categories/webTools/picturePro/"/>
     
     
   </entry>
