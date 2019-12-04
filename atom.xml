@@ -63,9 +63,9 @@
     <link href="http://yoursite.com/2019/12/03/testing-video/"/>
     <id>http://yoursite.com/2019/12/03/testing-video/</id>
     <published>2019-12-03T12:41:42.000Z</published>
-    <updated>2019-12-04T01:03:48.643Z</updated>
+    <updated>2019-12-04T02:53:38.095Z</updated>
     
-    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/kJGupYFaCGs" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/kJGupYFaCGs" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//player.vimeo.com/video/323783503" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//player.vimeo.com/video/325639357" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//player.vimeo.com/video/376431250" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//player.vimeo.com/video/142965023" frameborder="0" allowfullscreen></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -73,6 +73,13 @@
       
         &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/kJGupYFaCGs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
+
+
+
+
+
+
+&lt;div c
       
     
     </summary>
@@ -533,15 +540,16 @@
     <published>2019-12-03T08:01:20.000Z</published>
     <updated>2019-12-03T08:31:07.904Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><a href="https://www.defcon.org/" target="_blank" rel="noopener">https://www.defcon.org/</a></li><li><a href="https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/" target="_blank" rel="noopener">https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/</a></li><li><a href="https://stackoverflow.com/" target="_blank" rel="noopener">https://stackoverflow.com/</a></li><li><a href="https://news.ycombinator.com" target="_blank" rel="noopener">https://news.ycombinator.com</a></li><li><a href="https://vimeo.com/43899177" target="_blank" rel="noopener">https://vimeo.com/43899177</a></li><li><a href="https://youtube.com" target="_blank" rel="noopener">https://youtube.com</a></li><li><a href="https://www.pinterest.com/" target="_blank" rel="noopener">https://www.pinterest.com/</a></li><li><a href="https://www.linkedin.com/" target="_blank" rel="noopener">https://www.linkedin.com/</a></li><li><a href="https://www.tumblr.com/" target="_blank" rel="noopener">https://www.tumblr.com/</a></li><li><a href="https://www.reddit.com/" target="_blank" rel="noopener">https://www.reddit.com/</a></li><li><p><a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></p></li><li><p><a href="http://detail.zol.com.cn" target="_blank" rel="noopener">http://detail.zol.com.cn</a></p></li><li><a href="http://www.zol.com.cn" target="_blank" rel="noopener">http://www.zol.com.cn</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><p><a href="https://www.defcon.org/" target="_blank" rel="noopener">https://www.defcon.org/</a></p></li><li><p><a href="https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/" target="_blank" rel="noopener">https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/</a></p></li><li><p><a href="https://stackoverflow.com/" target="_blank" rel="noopener">https://stackoverflow.com/</a></p></li><li><p><a href="https://news.ycombinator.com" target="_blank" rel="noopener">https://news.ycombinator.com</a></p></li><li><p><a href="https://vimeo.com/43899177" target="_blank" rel="noopener">https://vimeo.com/43899177</a></p></li><li><p><a href="https://youtube.com" target="_blank" rel="noopener">https://youtube.com</a></p></li><li><p><a href="https://www.pinterest.com/" target="_blank" rel="noopener">https://www.pinterest.com/</a></p></li><li><p><a href="https://www.linkedin.com/" target="_blank" rel="noopener">https://www.linkedin.com/</a></p></li><li><p><a href="https://www.tumblr.com/" target="_blank" rel="noopener">https://www.tumblr.com/</a></p></li><li><p><a href="https://www.reddit.com/" target="_blank" rel="noopener">https://www.reddit.com/</a></p></li><li><p><a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></p></li><li><p><a href="http://detail.zol.com.cn" target="_blank" rel="noopener">http://detail.zol.com.cn</a></p></li><li><p><a href="http://www.zol.com.cn" target="_blank" rel="noopener">http://www.zol.com.cn</a></p></li></ul>]]></content>
     
     <summary type="html">
     
       
       
         &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.defcon.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.defcon.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.washingt
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.defcon.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.defcon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://w
       
     
     </summary>
